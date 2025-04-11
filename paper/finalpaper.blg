@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: finalpaper.aux
+The style file: prl.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: finalpaperNotes.bib
+Database file #2: sources.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+apsrev4-2.bst 2015-08-30 from 4.21a (PWD, AO, DPC/HNN) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--empty year in gilchrist_fuels_1977
+Warning--empty year in luo_blackbody_2015
+Warning--missing journal in prsa_nominal_2016
+Warning--empty year in prsa_nominal_2016
+Warning--missing journal in kendall_primary_1969
+Warning--empty year in kendall_primary_1969
+Warning--empty year in petty_first_2006
+You've used 7 entries,
+            5847 wiz_defined-function locations,
+            1646 strings with 16314 characters,
+and the built_in function-call counts, 7565 in all, are:
+= -- 391
+> -- 224
+< -- 61
++ -- 75
+- -- 57
+* -- 1201
+:= -- 746
+add.period$ -- 7
+call.type$ -- 7
+change.case$ -- 34
+chr.to.int$ -- 19
+cite$ -- 14
+duplicate$ -- 712
+empty$ -- 562
+format.name$ -- 124
+if$ -- 1467
+int.to.chr$ -- 1
+int.to.str$ -- 15
+missing$ -- 86
+newline$ -- 73
+num.names$ -- 22
+pop$ -- 316
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 243
+stack$ -- 0
+substring$ -- 139
+swap$ -- 661
+text.length$ -- 31
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 104
+warning$ -- 7
+while$ -- 23
+width$ -- 0
+write$ -- 104
+(There were 7 warnings)

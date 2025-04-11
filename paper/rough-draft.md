@@ -1,0 +1,26 @@
+(Why this instrument sucks)
+- Introduction
+    - talk about the sun and the history of its measurement
+        - [ ] stefan-boltzman law
+        - [ ] TSI measurement 
+        - [ ] absolute cavity radiometer
+        - [ ] Define black body
+    - specifically talk about wiens law and how SED have been used to measure it
+    - talk about radiative transfer wrt all this
+    - how does optical pyrometry work?
+        - discuss the issue with field of view
+- Methods
+    - [x] make apparatus figure
+    - discuss apparatus
+    - talk about how we took measurements, talk about time, mention number
+- Results
+    - make plot based off of data
+    - from data find S lambda, find optical depth, find temperature of the sun
+    - discuss your findings
+    - discuss uncertainty
+- Conclusions
+    - shit sucks 
+    - compare to temp of the sun right now
+    - talk about the FOV issue
+- Abstract
+    - we measure this with this uncertainty and it sucked
